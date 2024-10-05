@@ -26,7 +26,6 @@ To run this project, you'll need the following:
    ```sh
    python app.py
   
-
 2. Open your web browser and navigate to http://127.0.0.1:5001 to access the blog and contact form.
 3. Fill out the contact form and submit it. If successful, you should see a success message, and an email will be sent to the recipient specified in your .env file.
 
